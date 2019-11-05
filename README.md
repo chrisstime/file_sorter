@@ -1,7 +1,9 @@
 # file_sorter
 Automatically sorts your downloads folder on folder modification
 
+### Requirements
 * Python 3
+* `pip3 install requirements.txt`
 
 ### To run on start up (Ubuntu)
 1. Go to Startup Application Preferences.
